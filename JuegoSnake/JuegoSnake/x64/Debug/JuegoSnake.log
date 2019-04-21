@@ -1,0 +1,15 @@
+﻿  main.cpp
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\minwindef.h(127): warning C4005: 'CALLBACK': redefinición de macro
+  c:\users\pmong\desktop\snakec-\juegosnake\juegosnake\glut.h(34): note: vea la definición anterior de 'CALLBACK'
+c:\users\pmong\desktop\snakec-\juegosnake\juegosnake\textura.h(3): warning C4005: 'MAX': redefinición de macro
+  c:\users\pmong\desktop\snakec-\juegosnake\juegosnake\vector2d.h(11): note: vea la definición anterior de 'MAX'
+  Juego.cpp
+c:\users\pmong\desktop\snakec-\juegosnake\juegosnake\textura.h(3): warning C4005: 'MAX': redefinición de macro
+  c:\users\pmong\desktop\snakec-\juegosnake\juegosnake\vector2d.h(11): note: vea la definición anterior de 'MAX'
+  Generando código...
+  Compilando...
+  Admin.cpp
+c:\users\pmong\desktop\snakec-\juegosnake\juegosnake\textura.h(3): warning C4005: 'MAX': redefinición de macro
+  c:\users\pmong\desktop\snakec-\juegosnake\juegosnake\vector2d.h(11): note: vea la definición anterior de 'MAX'
+  Generando código...
+ETSIDI.lib(ETSIDI.dll) : fatal error LNK1112: tipo de equipo del módulo 'x86' en conflicto con tipo de equipo de destino 'x64'
